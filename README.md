@@ -71,7 +71,13 @@ Evaluates the mathematical expression using `eval()`.
 3. Start calculating!
 
 ---
+## 📸 ScreenShots
+<img width="1917" height="866" alt="Screenshot 2026-03-24 202227" src="https://github.com/user-attachments/assets/273e3c2d-70c2-470c-81a9-8f5e1d089a88" />
 
+---
+<img width="1917" height="865" alt="Screenshot 2026-03-24 202316" src="https://github.com/user-attachments/assets/75608daf-d50c-4123-97bd-0a89c89345f4" />
+
+---
 ## 🌟 Future Improvements
 
 * Keyboard input support
