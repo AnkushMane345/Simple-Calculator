@@ -72,12 +72,6 @@ Evaluates the mathematical expression using `eval()`.
 
 ---
 
-## ⚠️ Note
-
-* This project uses JavaScript's `eval()` function, which is fine for learning purposes but **not recommended for production apps** due to security risks.
-
----
-
 ## 🌟 Future Improvements
 
 * Keyboard input support
